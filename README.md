@@ -1,2 +1,2 @@
-# distributed-chat-app
-The project was part of an assignment of the UQ course: Computer Systems Principles and Programming [Course Code: CSSE2310]
+# Distributed Chat App
+Multi-threaded chat application in Linux environment using C programming language. Utilized socket programming to establish connection between multiple clients and server using the TCP/IP networking protocol. See "spec.pdf" in the spec folder for running instructions and other specifications.
